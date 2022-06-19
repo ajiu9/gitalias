@@ -1,6 +1,6 @@
 {
   "name": "@ajiu9/gitalias",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is my  git alias config",
   "keywords": ["git", "alias"],
   "main": "index.js",
