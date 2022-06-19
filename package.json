@@ -1,11 +1,16 @@
 {
   "name": "@ajiu9/gitalias",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is my  git alias config",
+  "keywords": ["git", "alias"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ajiu9",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ajiu9/@ajiu9/gitalias.git"
+  }
 }
